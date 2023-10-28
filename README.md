@@ -15,7 +15,7 @@
 
 <!-- /TOC -->
 
-## Chapter 1
+## Chapter 1: The Crossbow
 
 ### Aiming East
 
