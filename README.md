@@ -51,28 +51,28 @@
 
 ## Chapter 6
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c6.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c6x.gif)
 
 ## Chapter 7
 
-![Chapter 7](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c7.gif)
+![Chapter 7](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c7x.gif)
 
 ## Chapter 8
 
-![Chapter 8](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c8.gif)
+![Chapter 8](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c8x.gif)
 
 ## Chapter 9
 
-![Chapter 9](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c9.gif)
+![Chapter 9](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c9x.gif)
 
 ## Chapter 10
 
-![Chapter 10](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c10.gif)
+![Chapter 10](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c10x.gif)
 
 ## Chapter 11
 
-![Chapter 11](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c11.gif)
+![Chapter 11](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c11x.gif)
 
 ## Chapter 12
 
-![Chapter 12](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c12.gif)
+![Chapter 12](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c12x.gif)
