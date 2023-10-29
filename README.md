@@ -1,7 +1,7 @@
 # [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
-- [Chapter 1](#Chapter-1)
-- [Chapter 2](#Chapter-2)
+- [Chapter 1: The Crossbow : flex-direction](#Chapter-1)
+- [Chapter 2 : The Justify Laser : justify-content](#Chapter-2)
 - [Chapter 3](#Chapter-3)
 - [Chapter 4](#Chapter-4)
 - [Chapter 5](#Chapter-5)
