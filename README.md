@@ -14,7 +14,6 @@
 - [Chapter 12](#Chapter-12)
 - [CHALLENGES]()
 
-
 <!-- /TOC -->
 <a name="Chapter-1">
 
@@ -169,10 +168,13 @@
 <br>
 
 <!-- Challenges -->
+
+## Challenges
+
 <a name="Challenges">
 
 <details>
-<summary> <h2>Chapter 2: Challenges </h2> </summary>
+<summary> <h1>Chapter 2: Challenges </h1> </summary>
 
 ## Challenge 1
 
@@ -213,7 +215,7 @@
 </details>
 
 <details>
-<summary> <h2>Chapter 3: Challenges </h2> </summary>
+<summary> <h1>Chapter 3: Challenges </h1> </summary>
 
 ## Challenge 1
 
@@ -258,5 +260,6 @@
 ## Challenge 11
 
 ![Chapter 3](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.11.gif)
+
 </details>
 </a>
