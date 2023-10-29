@@ -18,19 +18,19 @@
 
 # Chapter 1: The Crossbow : flex-direction
 
-## Aiming East
+### Aiming East
 
 ![Chapter 1](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c11.gif)
 
-## Aiming West
+### Aiming West
 
 ![Chapter 1](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c12.gif)
 
-## Aiming South
+### Aiming South
 
 ![Chapter 1](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c13.gif)
 
-## Aiming North
+### Aiming North
 
 ![Chapter 1](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c14.gif)
 </a>
@@ -42,15 +42,15 @@
 
 # Chapter 2 : The Justify Laser : justify-content
 
-## East Distance Shot
+### East Distance Shot
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c21.gif)
 
-## West Distance Shot
+### West Distance Shot
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c22.gif)
 
-## South Distance Shot
+### South Distance Shot
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c23.gif)
 
@@ -58,11 +58,11 @@
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c24.gif)
 
-## The Space Between
+### The Space Between
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c25.gif)
 
-## Devious ttack
+### Devious ttack
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c26.gif)
 
