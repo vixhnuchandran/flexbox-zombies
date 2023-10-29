@@ -15,6 +15,7 @@
 
 <!-- /TOC -->
 <a name="Chapter-1">
+
 ## Chapter 1: The Crossbow : flex-direction
 
 ### Aiming East
@@ -33,8 +34,11 @@
 
 ![Chapter 1](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c14.gif)
 </a>
+
 <br>
 <br>
+
+<a name="Chapter-2">
 
 ## Chapter 2 : The Justify Laser : justify-content
 
@@ -102,6 +106,8 @@
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.9.gif)
 
 </details>
+</a>
+
 
 ## Chapter 3
 
