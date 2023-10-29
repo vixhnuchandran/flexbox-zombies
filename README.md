@@ -15,7 +15,7 @@
 
 <!-- /TOC -->
 
-## Chapter 1: The Crossbow
+## Chapter 1: The Crossbow : flex-direction
 
 ### Aiming East
 
@@ -32,10 +32,75 @@
 ### Aiming North
 
 ![Chapter 1](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c14.gif)
+<br>
+<br>
 
-## Chapter 2
+## Chapter 2 : The Justify Laser : justify-content
 
-![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c2.gif)
+### East Distance Shot
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c21.gif)
+
+### West Distance Shot
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c22.gif)
+
+### South Distance Shot
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c23.gif)
+
+### Clever Tactics
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c24.gif)
+
+### The Space Between
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c25.gif)
+
+### Devious ttack
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c26.gif)
+
+<details>
+<summary> <h3> Open To View Chapter 2: Challenges </h3> </summary>
+
+### Challenge 1
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.1.gif)
+
+### Challenge 2
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.2.gif)
+
+### Challenge 3
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.3.gif)
+
+### Challenge 4
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.4.gif)
+
+### Challenge 5
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.5.gif)
+
+### Challenge 6
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.6.gif)
+
+### Challenge 7
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.7.gif)
+
+### Challenge 8
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.8.gif)
+
+### Challenge 9
+
+![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/2.9.gif)
+
+</details>
 
 ## Chapter 3
 
