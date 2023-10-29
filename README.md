@@ -349,47 +349,47 @@
 
 ## Challenge 1
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.1.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.1.gif)
 
 ## Challenge 2
 
-![Chapter 5](https://raw.gith6ubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.3.gif)
+![Chapter 5](https://raw.gith6ubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.3.gif)
 
 ## Challenge 3
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.3.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.3.gif)
 
 ## Challenge 4
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.4.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.4.gif)
 
 ## Challenge 5
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.5.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.5.gif)
 
 ## Challenge 6
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.6.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.6.gif)
 
 ## Challenge 7
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.7.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.7.gif)
 
 ## Challenge 8
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.8.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.8.gif)
 
 ## Challenge 9
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.9.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.9.gif)
 
 ## Challenge 10
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.10.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.10.gif)
 
 ## Challenge 11
 
-![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.11.gif)
+![Chapter 5](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/5.11.gif)
 
 </details>
 
@@ -399,47 +399,47 @@
 
 ## Challenge 1
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.1.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.1.gif)
 
 ## Challenge 2
 
-![Chapter 6](https://raw.gith6ubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.3.gif)
+![Chapter 6](https://raw.gith6ubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.3.gif)
 
 ## Challenge 3
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.3.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.3.gif)
 
 ## Challenge 4
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.4.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.4.gif)
 
 ## Challenge 5
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.5.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.5.gif)
 
 ## Challenge 6
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.6.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.6.gif)
 
 ## Challenge 7
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.7.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.7.gif)
 
 ## Challenge 8
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.8.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.8.gif)
 
 ## Challenge 9
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.9.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.9.gif)
 
 ## Challenge 10
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.10.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.10.gif)
 
 ## Challenge 11
 
-![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.11.gif)
+![Chapter 6](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/6.11.gif)
 
 </details>
 </a>
