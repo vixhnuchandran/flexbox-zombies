@@ -108,7 +108,7 @@
 </details>
 </a>
 
-<a name="Chapter-2">
+<a name="Chapter-3">
 
 # Chapter 3
 
@@ -118,7 +118,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-4">
 
 # Chapter 4
 
@@ -128,7 +128,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-5">
 
 # Chapter 5
 
@@ -138,7 +138,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-6">
 
 # Chapter 6
 
@@ -148,7 +148,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-7">
 
 # Chapter 7
 
@@ -158,7 +158,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-8">
 
 # Chapter 8
 
@@ -168,7 +168,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-9">
 
 # Chapter 9
 
@@ -178,15 +178,16 @@
 <br>
 <br>
 
-# Chapter 10
+<a name="Chapter-10">
 
+# Chapter 10
 ![Chapter 10](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c10x.gif)
 </a>
 
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-11">
 
 # Chapter 11
 
@@ -196,7 +197,7 @@
 <br>
 <br>
 
-<a name="Chapter-2">
+<a name="Chapter-12">
 
 # Chapter 12
 
