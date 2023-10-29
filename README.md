@@ -12,7 +12,7 @@
 - [Chapter 10](#Chapter-10)
 - [Chapter 11](#Chapter-11)
 - [Chapter 12](#Chapter-12)
-- [CHALLENGES]()
+- [CHALLENGES](#Challenges)
 
 <!-- /TOC -->
 <a name="Chapter-1">
@@ -223,7 +223,7 @@
 
 ## Challenge 2
 
-![Chapter 3](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.3.gif)
+![Chapter 3](https://raw.gith6ubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/challenges/3.3.gif)
 
 ## Challenge 3
 
