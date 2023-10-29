@@ -62,7 +62,7 @@
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c25.gif)
 
-### Devious ttack
+### Devious Attack
 
 ![Chapter 2](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c26.gif)
 
