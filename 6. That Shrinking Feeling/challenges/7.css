@@ -1,0 +1,26 @@
+crossbow {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+.target.goo {
+    align-self: center;
+}
+
+.target:nth-of-type(1) {
+    align-self: flex-end;
+    flex-grow: 1;
+
+}
+
+.target:nth-of-type(2) {
+    align-self: stretch;
+    flex-grow: 1;
+    flex-shrink: 2
+}
+
+.target:nth-of-type(3) {
+    align-self: flex-start;
+    flex-grow: 2;
+}

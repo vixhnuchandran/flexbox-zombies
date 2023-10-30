@@ -1,0 +1,9 @@
+crossbow {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.target:nth-of-type(3) {
+    flex-shrink: 3;
+}

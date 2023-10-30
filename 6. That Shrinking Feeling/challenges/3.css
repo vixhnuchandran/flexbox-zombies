@@ -1,0 +1,16 @@
+crossbow {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.target:nth-of-type(1) {
+    align-self: center;
+}
+
+.target:nth-of-type(2) {
+    align-self: center;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
