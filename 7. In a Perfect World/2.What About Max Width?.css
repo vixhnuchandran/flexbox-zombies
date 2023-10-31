@@ -5,6 +5,7 @@ crossbow {
 }
 
 .target.goo {
-    flex-basis: 100px;
-    min-width: 100px;
+    flex-basis: 400px;
+    min-width: auto;
+    max-width: 100px;
 }
