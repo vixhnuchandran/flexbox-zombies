@@ -1,0 +1,14 @@
+crossbow {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+.target.goo {
+    align-self: center;
+    flex-grow: 1;
+}
+
+.target:nth-of-type(2) {
+    max-height: 200px;
+}

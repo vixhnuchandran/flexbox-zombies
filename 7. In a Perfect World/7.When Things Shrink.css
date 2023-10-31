@@ -1,0 +1,13 @@
+crossbow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.target.goo {
+    flex-basis: 300px;
+}
+
+.target:nth-of-type(1) {
+    flex-shrink: 2;
+}
