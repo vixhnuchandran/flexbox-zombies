@@ -1,0 +1,6 @@
+crossbow {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    align-content: flex-end;
+}
