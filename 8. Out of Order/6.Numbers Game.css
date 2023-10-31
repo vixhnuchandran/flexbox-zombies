@@ -1,0 +1,17 @@
+crossbow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.target.female {
+    order: 1;
+}
+
+.target.goo {
+    order: 2;
+}
+
+.target.male {
+    order: 3;
+}

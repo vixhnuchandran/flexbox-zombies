@@ -1,0 +1,14 @@
+crossbow {
+    display: flex;
+    align-items: flex-start;
+}
+
+.target.female {
+    order: -1;
+}
+
+.target:nth-of-type(1) {
+    align-self: flex-end;
+    flex-grow: 1;
+    flex-shrink: 0;
+}

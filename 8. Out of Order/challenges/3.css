@@ -1,0 +1,11 @@
+crossbow {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.target.goo {
+    align-self: stretch;
+    order: -1;
+
+}
