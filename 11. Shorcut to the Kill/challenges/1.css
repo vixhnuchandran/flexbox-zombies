@@ -1,0 +1,10 @@
+crossbow {
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.target.goo {
+    flex: 0 1 300px;
+}
