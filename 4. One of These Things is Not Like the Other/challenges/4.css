@@ -1,0 +1,8 @@
+crossbow {
+    display: flex;
+    justify-content: space-around;
+}
+
+.target:nth-of-type(3) {
+    align-self: flex-start;
+}
