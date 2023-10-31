@@ -107,23 +107,23 @@
 
 ### Classic One-Off
 
-![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c4.gif)
+![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c41.gif)
 
 ### Meat Shield
 
-![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c4.gif)
+![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c42.gif)
 
 ### How Very self-Centered
 
-![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c4.gif)
+![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c43.gif)
 
 ### Multiple Overrides
 
-![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c4.gif)
+![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c44.gif)
 
 ### Lucky Guess
 
-![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c4.gif)
+![Chapter 4](https://raw.githubusercontent.com/vixhnuchandran/flexbox-zombies/main/gifs/c45.gif)
 
 </a>
 
